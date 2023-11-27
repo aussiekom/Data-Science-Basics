@@ -4,7 +4,7 @@ Here you'll find the hands-on implementation code and datasets accompanying the 
 
 **How to Use:**
 
-📖 *Medium Articles:* Visit the provided [Medium](https://medium.com/@aussiekom) to explore the theoretical foundations of data science concepts.
+📖 *Medium Articles:* Visit [Medium](https://medium.com/@aussiekom) page to explore the theoretical foundations of data science concepts.
 
 🖥️ *Code Implementation:* Find the corresponding code in this repository to apply what you've learned. Each folder is dedicated to a specific topic, making it easy to navigate.
 
