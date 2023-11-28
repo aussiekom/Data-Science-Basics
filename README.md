@@ -10,4 +10,4 @@ Here you'll find the hands-on implementation code and datasets accompanying the 
 
 📂 *Datasets:* Download datasets from the 'datasets' directory to replicate the analyses and experiments conducted in the code.
 
-**Also you can check my Data Science Foundations mindmap for the overview of the main subjects and disciplines you need to know in data science. [link will be provided later]**
+**Also you can check my Data Science Foundations mindmap for the overview of the main subjects and disciplines you need to know in data science. [link will be provided later]** 
