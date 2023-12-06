@@ -15,6 +15,8 @@
 * Scipy - Optimization and solving diffrential equation
 * Matplotlib - Plots and graphs and figures
 * Seaborn - Heat maps and time series and oter plots
+* Scikit Learn - ML, regression, classification, clustring analysis, etc
+* Stats models - Explore the data, estimation of statistical models and perform statistical analysis
 
 
 
