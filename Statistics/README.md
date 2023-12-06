@@ -19,6 +19,13 @@
 * Stats models - Explore the data, estimation of statistical models and perform statistical analysis
 
 
+### Types of Data:
+>Type 1 Data:
+* Cross Sectional (data collected at one point)
+* Time Series (data collected over different time points)
 
+>Type 2 Data:
+* Univariate (contains a single variable to measure entity e.g plnat hight in time stamp)
+* Multi Variate (contains more variable to measure something e.g plant hight, fertilizer amount irrigation)
 
 
