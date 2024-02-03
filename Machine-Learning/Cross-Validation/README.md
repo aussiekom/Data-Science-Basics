@@ -4,6 +4,7 @@
 In Machine Learning, Cross-validation is a statistical method of evaluating generalization performance that is more stable and thorough than using a division of dataset into a training and test set.
 
 
+
 **What is cross-validation?**
 <img width="540" alt="Screenshot 2024-01-28 at 4 54 36 PM" src="https://github.com/aussiekom/Data-Science-Basics/assets/102028836/d0f5ba0e-7bd9-4b0e-8ace-aae0be28857a">
 
