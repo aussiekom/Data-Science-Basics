@@ -1,4 +1,4 @@
-### Linear Algebra for Data Science
+### Linear Algebra for Data Science 
 
 **Linear Algebra** is a part of math that proves very handy in data science and machine learning. It stands out as the key math skill in machine learning. Many machine learning models can be shown using matrices. The data set is frequently depicted as a matrix. Linear algebra comes into play during data preparation, data conversion, and assessing models.
 
